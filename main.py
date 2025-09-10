@@ -1,2 +1,2 @@
 print("Hello world!")
-print("James is super cool")
+print("McDavid is ultra cool")
